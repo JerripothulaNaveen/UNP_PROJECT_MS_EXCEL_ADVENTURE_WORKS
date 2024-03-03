@@ -2,4 +2,4 @@
 
 The link for the project is given below:
 
-https://docs.google.com/spreadsheets/d/e/2PACX-1vRhNHI_Ja7og4ugN9SgMfKyVc0BLZ_gRWklLSsIbjYuaSAHq6n2uzlBPVMJDSqNeA/pub?output=pdf
+https://docs.google.com/spreadsheets/d/1W-1qQADqi2WZTn2JScVgBQ_v22kEEMnB/edit?usp=sharing&ouid=115217184688423670639&rtpof=true&sd=true
