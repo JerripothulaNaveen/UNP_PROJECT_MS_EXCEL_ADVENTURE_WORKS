@@ -1,3 +1,5 @@
+# UNP_PROJECT_MS_EXCEL_ADVENTURE_WORKS
+
 
 I completed this project as part of my value added course with UNP. In this project I was able to turn the large amount of Adventure Works data into a detailed and useful Excel dashboard.
 
@@ -8,8 +10,6 @@ Key Highlights:
 4) The company's performance can be swiftly assessed through a format that presents Key Performance Indicators (KPIs) in a visualized manner.
 5) I Utilized appropriate Excel functions and formulas to enhance and organize the data for efficient presentation.
 
-
-# UNP_PROJECT_MS_EXCEL_ADVENTURE_WORKS
 
 The link for the project is given below:
 
